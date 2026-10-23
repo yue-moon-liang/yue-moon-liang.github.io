@@ -1,2 +1,2 @@
-# -yue-moon-liang.github.io
+# yue-moon-liang.github.io
 personal website of Yue Liang
